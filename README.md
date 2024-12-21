@@ -1,6 +1,8 @@
 ## Hi there, I'm Mohd Rameez Khan👋
-A Full Stack Developer From India
+A Full Stack Developer From India</br>
+
 [![](https://visitcount.itsvg.in/api?id=Rkhan2026&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## 🌐 Contact Me On:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohd-rameez-khan-6934a5226) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zkhan2026@gmail.com)
@@ -13,8 +15,3 @@ A Full Stack Developer From India
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
