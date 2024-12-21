@@ -1,7 +1,9 @@
 ## Hi there, I'm Mohd Rameez Khan👋
 A Full Stack Developer From India</br>
 
-[![](https://visitcount.itsvg.in/api?id=Rkhan2026&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rkhan2026&icon=0&color=1)](https://visitcount.itsvg.in)</br>
+
+My Resume/CV --> 
 
 ## 🌐 Contact Me On:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohd-rameez-khan-6934a5226) 
