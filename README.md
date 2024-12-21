@@ -2,7 +2,7 @@
 
 
 ## 🌐 Contact Me On:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-rameez-khan-6934a5226) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohd-rameez-khan-6934a5226) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zkhan2026@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=Rkhan2026&icon=0&color=1)](https://visitcount.itsvg.in)
