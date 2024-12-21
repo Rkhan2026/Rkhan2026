@@ -27,7 +27,7 @@ A Full Stack Developer From India
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 
 
-<br><b>Frameworks/Libraries --></b>
+<br><b>Frameworks/Libraries --></b><br><br>
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
@@ -62,7 +62,7 @@ A Full Stack Developer From India
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
 
-<br><b>Databases --></b>
+<br><b>Databases --></b><br><br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
@@ -73,7 +73,7 @@ A Full Stack Developer From India
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 
 
-<br><b>Developer tools --></b>
+<br><b>Developer tools --></b><br><br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
@@ -90,7 +90,7 @@ A Full Stack Developer From India
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 
 
-<br><b>Others --></b>
+<br><b>Others --></b><br><br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
