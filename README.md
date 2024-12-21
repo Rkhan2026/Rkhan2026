@@ -1,7 +1,7 @@
 ## Hi there, I'm Mohd Rameez Khan👋
 A Full Stack Developer From India
 
-<br><b>My Resume/CV --> </b>
+<b>My Resume/CV --> </b>
 
 <br>[![](https://visitcount.itsvg.in/api?id=Rkhan2026&icon=0&color=1)](https://visitcount.itsvg.in)</br>
 
