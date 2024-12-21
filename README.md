@@ -11,10 +11,10 @@ A Full Stack Developer From India
 
 # 💻 Tech Skills:
 <b>Languages --></b>
-<b>Frameworks/Libraries --></b>
-<b>Databases --></b>
-<b>Developer tools --></b>
-<b>Others --></b>
+<br><b>Frameworks/Libraries --></b>
+<br><b>Databases --></b>
+<br><b>Developer tools --></b>
+<br><b>Others --></b>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
