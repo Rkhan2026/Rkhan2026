@@ -10,7 +10,7 @@ A Full Stack Developer From India
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zkhan2026@gmail.com)
 
 # 💻 Tech Skills:
-<b>Languages --></b><br>
+<b>Languages --></b><br><br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
