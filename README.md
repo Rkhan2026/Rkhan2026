@@ -43,8 +43,8 @@ A Full Stack Developer From India
 
 <p align = "center">
   
-<img src="![](https://github-readme-stats.vercel.app/api?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=true&count_private=false) "/>
-<img src="![](https://github-readme-streak-stats.herokuapp.com/?user=Rkhan2026&theme=default&hide_border=false)"/>
+<img src=![](https://github-readme-stats.vercel.app/api?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=true&count_private=false)/>
+<img src=![](https://github-readme-streak-stats.herokuapp.com/?user=Rkhan2026&theme=default&hide_border=false)/>
 </p>
 </br>
 
