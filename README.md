@@ -25,18 +25,15 @@ A Full Stack Developer From India
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 <br><b>Developer tools --></b><br><br>
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 <br><b>Others --></b><br><br>
-
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 # 📊 GitHub Stats:
-
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
    <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Rkhan2026&theme=default&hide_border=false"/><br/>
