@@ -40,9 +40,13 @@ A Full Stack Developer From India
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rkhan2026&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rkhan2026&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkhan2026&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
-  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
