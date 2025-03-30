@@ -41,10 +41,8 @@ A Full Stack Developer From India
 
 # 📊 GitHub Stats:
 
-<p float="left">
-   ![](https://github-readme-stats.vercel.app/api?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=true&count_private=false) 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Rkhan2026&theme=default&hide_border=false)<br/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=true&count_private=false) {: style="height:83px"}
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rkhan2026&theme=default&hide_border=false) {: style="height:83px"} <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkhan2026&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
