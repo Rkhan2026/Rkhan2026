@@ -1,7 +1,7 @@
 ## Hi there, I'm Mohd Rameez Khan👋
 A Full Stack Developer From India
 
-/*<b>My Resume/CV --><a href="https://drive.google.com/file/d/101qDleyvoGU1PtyX29SH8f7WufNYifXd/view?usp=sharing"> Drive Link </a> </b>*?
+<!---<b>My Resume/CV --><a href=""> Drive Link </a> </b> --->
 
 ## 🌐 Contact Me On:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohd-rameez-khan-6934a5226) 
