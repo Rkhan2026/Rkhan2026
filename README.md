@@ -1,6 +1,6 @@
 ## Hi there, I'm Mohd Rameez Khan👋
 <p align="justify">
-Full-stack developer currently interning at OrbitaLink Private Limited, a next-generation GSaaS (Ground Station as a Service) company committed to simplifying access to space communication infrastructure. Experienced in creating responsive, user-focused interfaces using React, Next.js, and React-Bootstrap, and integrating backend services with REST APIs. Proficient in managing the full development lifecycle from creation to deployment, utilizing modern tools like Git and Postman to ensure robust and efficient workflows
+A Full-stack developer currently interning at OrbitaLink Private Limited, a next-generation GSaaS (Ground Station as a Service) company committed to simplifying access to space communication infrastructure. Experienced in creating responsive, user-focused interfaces using React, Next.js, and React-Bootstrap, and integrating backend services with REST APIs. Proficient in managing the full development lifecycle from creation to deployment, utilizing modern tools like Git and Postman to ensure robust and efficient workflows
 </p>
 
 <b>Resume/CV --><a href="https://drive.google.com/file/d/1UjM5PnJh1gQuRaplil5XdwGbCbzEmUxc/view?usp=sharing"> Resume </b>
