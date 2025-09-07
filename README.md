@@ -1,7 +1,9 @@
 ## Hi there, I'm Mohd Rameez Khan👋
+<p align="justify">
 Full-stack developer building the production-ready OrbitaLink Web Platform, a key component of an upcoming Ground Station as a Service (GSaaS) business. Experienced in creating responsive, user-focused interfaces using React, Next.js, and React-Bootstrap, and integrating backend services with REST APIs. Proficient in managing the full development lifecycle from creation to deployment, utilizing modern tools like Git and Postman to ensure robust and efficient workflows
+</p>
 
-<b>My Resume/CV --><a href="https://drive.google.com/file/d/1UjM5PnJh1gQuRaplil5XdwGbCbzEmUxc/view?usp=sharing"> Resume </b>
+<b>Resume/CV --><a href="https://drive.google.com/file/d/1UjM5PnJh1gQuRaplil5XdwGbCbzEmUxc/view?usp=sharing"> Resume </b>
 
 ## 🌐 Contact Me On:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mohd-rameez-khan-6934a5226) 
